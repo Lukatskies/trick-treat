@@ -8,9 +8,9 @@ function Candy (name, imgSrc) {
 //array//
 const candies = [
     new Candy ("Kit-Kat","Images/Kit-Kat.jpg"),
-    new Candy ("M&Ms", "Images/M&M's"),
+    new Candy ("M&Ms", "Images/M&M's.jpg"),
     new Candy ("Sour Patch", "Images/Sour Patch.jpg"),
-    new Candy ("Twix", "Images/Twix.jpg"),
+    new Candy ("Twix", "Images/Twix.jpeg"),
 ];
 
 //function for generating random index//
